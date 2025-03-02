@@ -31,6 +31,10 @@ UI Simgeleri : React Icons
 Sayfalandırma : React Paginate
 
 📸 Ekran Görüntüleri
+
+
+
+
 ![Image](https://github.com/user-attachments/assets/1060965a-7a5e-40c7-8187-dfdd23f3f88a)
 
 📥 Kurulum
