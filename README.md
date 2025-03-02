@@ -30,6 +30,7 @@ Yönlendirme : React Router
 UI Simgeleri : React Icons
 Sayfalandırma : React Paginate
 
+![Image](https://github.com/user-attachments/assets/0630e331-e550-4a69-80b5-55aba139fa4f)
 
 📥 Kurulum
 
